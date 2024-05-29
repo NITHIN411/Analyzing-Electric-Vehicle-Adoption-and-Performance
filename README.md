@@ -1,0 +1,2 @@
+# Analyzing-Electric-Vehicle-Adoption-and-Performance
+Our project delves into the critical transition towards sustainable transportation by examining the factors influencing electric vehicle (EV) adoption and assessing their performance metrics. This comprehensive analysis aims to understand the current landscape, and highlight the benefits of EVs over traditional internal combustion engine vehicles.
